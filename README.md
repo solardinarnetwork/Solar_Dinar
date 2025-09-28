@@ -21,6 +21,7 @@ Creating a stable, inflation-resistant currency backed by renewable energy produ
 
 ## 💬 Join the Discussion
 - Email: solardinarnetwork@gmail.com
+- Facebook_page: https://www.facebook.com/profile.php?id=61581274813825
 - Issues: Use GitHub issues for technical discussions
 
 ## 📢 Share the Vision
