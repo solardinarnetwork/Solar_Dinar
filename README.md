@@ -11,7 +11,7 @@ Creating a stable, inflation-resistant currency backed by renewable energy produ
 
 ## 📄 Documentation
 - [Whitepaper (English)](whitepaper.pdf)
-- [الورقة البيضاء (العربية)](whitepaper-arabic.pdf)
+- [الورقة البيضاء (العربية)](whitepaper_arabic.pdf)
 
 ## 🌱 Features
 - Inflation-resistant
@@ -20,7 +20,7 @@ Creating a stable, inflation-resistant currency backed by renewable energy produ
 - Real economic value
 
 ## 💬 Join the Discussion
-- Email: solardin@project.com
+- Email: solardinarnetwork@gmail.com
 - Issues: Use GitHub issues for technical discussions
 
 ## 📢 Share the Vision
