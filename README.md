@@ -10,7 +10,7 @@ Creating a stable, inflation-resistant currency backed by renewable energy produ
 **1 kWh = 1 Solar Dinar**
 
 ## 📄 Documentation
-- [Whitepaper (English)](whitepaper.pdf)
+- [Whitepaper (English)](https://github.com/solardinarnetwork/Solar_Dinar/blob/main/Whitepaper.pdf)
 - [الورقة البيضاء (العربية)](whitepaper_arabic.pdf)
 
 ## 🌱 Features
