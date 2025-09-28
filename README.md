@@ -11,7 +11,7 @@ Creating a stable, inflation-resistant currency backed by renewable energy produ
 
 ## 📄 Documentation
 - [Whitepaper (English)](https://github.com/solardinarnetwork/Solar_Dinar/blob/main/Whitepaper.pdf)
-- [الورقة البيضاء (العربية)](whitepaper_arabic.pdf)
+- [Whitepaper (Arabic)]([whitepaper_arabic.pdf](https://github.com/solardinarnetwork/Solar_Dinar/blob/main/Whitepaper_arabic.pdf))
 
 ## 🌱 Features
 - Inflation-resistant
